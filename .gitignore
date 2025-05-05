@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# NuGet packages
+packages/
+
+# SQL baðlantý bilgileri
+*.mdf
+*.ldf
+*.db
+*.dbmdl
