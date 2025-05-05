@@ -1,13 +1,13 @@
 # 💼 Financial CRM App
 
-Bu proje, [Murat Yücedağ](https://www.udemy.com/user/murat-yucedag/) tarafından paylaşılan **C# Eğitim Kampı** serisinin son projesi olarak geliştirilmiş, MySQL destekli, Entity Framework ile entegre çalışan **Finansal CRM** uygulamasıdır.
+Bu proje, [Murat Yücedağ]([https://www.udemy.com/user/murat-yucedag/](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPmFMvGKVHA_ijjrgUyNIXr)) tarafından paylaşılan **C# Eğitim Kampı** serisinin son projesi olarak geliştirilmiş, MySQL destekli, Entity Framework ile entegre çalışan **Finansal CRM** uygulamasıdır.
 
 ## 🚀 Özellikler
 
 ### 🔐 Giriş & Kayıt Ekranı
 - Yeni kullanıcı oluşturma ve mevcut kullanıcılarla giriş yapma desteği
 - Basit ve kullanıcı dostu arayüz
-
+- Yanlış girdi kontrolü
 
 ![Login](images/signIn.PNG)
 ![Signup](images/signUp.PNG)
@@ -56,13 +56,15 @@ Sol taraftaki menü ile tüm sayfalara kolay erişim:
 - Tüm veriler Entity Framework aracılığıyla MySQL veritabanına kaydedilir.
 - Uygulama üzerinden eklenen her kayıt kalıcı olarak veritabanında tutulur.
 
-## 📷 Ekran Görüntüleri
-Görseller `/images` klasöründe yer almaktadır. Aşağıdaki örnekler:
-- `login.png`
-- `signup.png`
-- `dashboard.png`
 
 ## 📦 Kurulum
 1. Bu projeyi klonlayın:
    ```bash
    git clone https://github.com/kullaniciadi/financial-crm-app.git
+2. Visual Studio'da açın.
+
+3. app.config veya DbContext içerisindeki MySQL bağlantı ayarlarını kendi veritabanınıza göre güncelleyin.
+
+4. NuGet üzerinden eksik Entity Framework/MySQL paketlerini yükleyin.
+
+Uygulamayı çalıştırın.   
