@@ -9,8 +9,8 @@ Bu proje, [Murat Yücedağ](https://www.udemy.com/user/murat-yucedag/) tarafınd
 - Basit ve kullanıcı dostu arayüz
 
 
-![Login](images/signIn.png)
-![Signup](images/signUp.png)
+![Login](images/signIn.PNG)
+![Signup](images/signUp.PNG)
 
 ### 📊 Dashboard Paneli
 - Toplam banka bakiyesi
@@ -19,7 +19,7 @@ Bu proje, [Murat Yücedağ](https://www.udemy.com/user/murat-yucedag/) tarafınd
 - Banka bakiyeleri için çubuk grafik
 - Fatura türlerine göre pasta grafik
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.PNG)
 
 ### 🧭 Navigasyon
 Sol taraftaki menü ile tüm sayfalara kolay erişim:
@@ -27,24 +27,24 @@ Sol taraftaki menü ile tüm sayfalara kolay erişim:
   - Harcama kategorilerini listeleme
   - Yeni kategori ekleme, silme, güncelleme
   - ID'ye göre kategori arama
-  ![Kategoriler](images/categories.png)
+  ![Kategoriler](images/categories.PNG)
 - **Bankalar**
   - Banka bakiyelerini görme
   - Son 5 banka hareketini listeleme
-  ![Bankalar](images/banks.png)  
+  ![Bankalar](images/banks.PNG)  
 - **Harcamalar**
   - Harcamaları listeleme
   - Yeni harcama ekleme, silme, güncelleme
   - ID’ye göre harcama arama
-  ![Harcamalar](images/spendings.png)
+  ![Harcamalar](images/spendings.PNG)
 - **Faturalar**
   - Fatura listesi
   - Yeni fatura ekleme, silme, güncelleme
   - ID’ye göre fatura arama
-  ![Faturalar](images/bills.png)
+  ![Faturalar](images/bills.PNG)
 - **Banka Hareketleri**
   - Tüm banka bakiyelerini ve hareketlerini listeleme
-  ![Banka Hareketleri](images/bank-transactions.png)
+  ![Banka Hareketleri](images/bank-transactions.PNG)
 - **Çıkış Yap** butonu ile oturumu sonlandırma
 ## 🛠️ Kullanılan Teknolojiler
 - **C#** – Uygulama geliştirme dili
