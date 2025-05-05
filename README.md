@@ -8,8 +8,8 @@ Bu proje, [Murat Yücedağ](https://www.udemy.com/user/murat-yucedag/) tarafınd
 - Yeni kullanıcı oluşturma ve mevcut kullanıcılarla giriş yapma desteği
 - Basit ve kullanıcı dostu arayüz
 
-![Login](images/login.png)
-![Signup](images/signup.png)
+![Login](images/signIn.png)
+![Signup](images/signUp.png)
 
 ### 📊 Dashboard Paneli
 - Toplam banka bakiyesi
