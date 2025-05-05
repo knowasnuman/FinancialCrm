@@ -7,7 +7,12 @@ Bu proje, [Murat Yücedağ](https://www.udemy.com/user/murat-yucedag/) tarafınd
 ### 🔐 Giriş & Kayıt Ekranı
 - Yeni kullanıcı oluşturma ve mevcut kullanıcılarla giriş yapma desteği
 - Basit ve kullanıcı dostu arayüz
-
+/images/categories.png
+/images/banks.png
+/images/expenses.png
+/images/invoices.png
+/images/bank-transactions.png
+/images/logout.png
 ![Login](images/signIn.png)
 ![Signup](images/signUp.png)
 
